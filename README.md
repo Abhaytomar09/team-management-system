@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Project Management System
 
 ## DevOps + MERN Capstone Project
@@ -622,3 +623,6 @@ MIT License - Open source project
 **Built with ❤️ for DevOps + MERN Capstone Project**
 
 🚀 **Happy Coding!**
+=======
+# team-management-system
+>>>>>>> dca06b83b94d61888abf765eee645308f22f1ad3
